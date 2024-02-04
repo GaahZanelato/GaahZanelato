@@ -16,7 +16,8 @@ I believe in the power of continuous learning, and this shift represents a perso
 
 I'm excited about this transition and am eager to connect with fellow professionals, enthusiasts, and mentors in the IT community. If you have insights, advice, or just want to share your own journey, I'd love to connect! Let's inspire and learn from each other as we navigate the exciting intersections of education, fitness, and technology.
 
-#CareerTransition #ITJourney #AlwaysLearning #PhysicalEducation #InformationTechnology #NewBeginnings
+### Tech Stack
+
 <!--
 **GaahZanelato/GaahZanelato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
