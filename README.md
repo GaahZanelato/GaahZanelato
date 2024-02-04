@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there 
 
 🏋️‍♂️ Passionate Physical Education Teacher 🤸‍♂️ | Future IT Specialist 🖥️
 
