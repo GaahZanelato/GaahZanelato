@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, you can call me Zany 👋</h1>
 <p align="center">
-  <img src="https://preview.redd.it/new-fire-red-rom-hack-pokemon-delta-v0-p44daakqpglb1.gif?width=640&crop=smart&auto=webp&s=be89118a7e101847d6f94ca9a9e8fbdb50ecd1ec">
+  <img src="https://i.redd.it/n8agw6z2smyb1.gif">
 </p>
 
 <div align="center">
