@@ -10,8 +10,8 @@
 </div>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rodolfomarianocy&show_icons=true&theme=dracula" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfomarianocy&layout=compact&langs_count=16&theme=dracula" />
+  <img height="160em" src="https://res.cloudinary.com/momentum-media-group-pty-ltd/image/upload/c_fill,q_auto:best,f_auto,e_unsharp_mask:80,w_828,h_400/Cyber%20Security%2Fwhite-hat-hacker-csc_oxqe7b" />
+  
 </div>
 
 ---
