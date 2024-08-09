@@ -1,18 +1,30 @@
-# Olá, eu sou o Zany (ou Mestre Pokémon)! 👋
+<h1 align="center">Hi there, you can call me Zany or Pokémon Master 👋</h1>
+<p align="center">
+  <img src="https://preview.redd.it/new-fire-red-rom-hack-pokemon-delta-v0-p44daakqpglb1.gif?width=640&crop=smart&auto=webp&s=be89118a7e101847d6f94ca9a9e8fbdb50ecd1ec">
+</p>
 
-![Glitchy Red FNF Lullaby](https://media1.tenor.com/m/OsHFrEsthG4AAAAd/glitchy-red-fnf-lullaby.gif)
+<div align="center">
+🔭 🔍 I am currently transitioning to the field of Ethical Hacking and Cybersecurity, with a focus on Pentesting and Vulnerability Identification. Additionally, I am a Physical Education and Artistic/Gymnastics teacher.
+  
+⚡ 
+</div>
 
-Sou um profissional apaixonado pela interseção entre educação física e tecnologia, atualmente em transição para a área de Ethical Hacking e Cybersecurity. Atuo como professor de Educação Física e Ginástica Artística/Rítmica, onde meu objetivo é inspirar e desenvolver as habilidades físicas e intelectuais dos alunos.
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rodolfomarianocy&show_icons=true&theme=dracula" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfomarianocy&layout=compact&langs_count=16&theme=dracula" />
+</div>
 
-Além disso, trabalho como freelancer de TI com um foco crescente em Pentesting e Identificação de Vulnerabilidades. Minha experiência inclui a realização de testes para descobrir e explorar falhas de segurança em sistemas e aplicativos.
+---
+<div>
+  <p align="center">
+    <a href="Https://linkedin.com/in/gabriel-zanelato-89a7452aa/" >
+      <img height="30em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://tryhackme.com/p/GaahZanelato">
+      <img height="30em" src="https://tryhackme-badges.s3.amazonaws.com/GaahZanelato.png" alt="TryHackMe">
+    </a>
+  </p>
+</div> 
 
-Atualmente, estou cursando o CST em Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul e dedicando meu tempo ao estudo de Ethical Hacking e Cybersecurity. Estou empenhado em aprimorar minhas habilidades em segurança cibernética, com o objetivo de proteger sistemas e dados contra ameaças e vulnerabilidades. Meu foco é aprender e aplicar técnicas avançadas para identificar e mitigar riscos de segurança, contribuindo para a proteção de informações sensíveis.
 
-Estou animado com essa transição e aberto a novas conexões com profissionais e mentores na área de segurança cibernética. Se você tem insights, conselhos ou experiências para compartilhar, adoraria me conectar! Vamos explorar juntos as oportunidades empolgantes no campo da segurança digital e contribuir para um mundo mais seguro e protegido.
-
-## Player:
-- [Try Hack Me](https://tryhackme.com)
-- [Hack The Box](https://www.hackthebox.com)
-- [OffSec](https://www.offensive-security.com)
-
-Sinta-se à vontade para explorar meus projetos e contribuições aqui no GitHub. 🚀
+</p>
